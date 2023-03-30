@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "658632820153",
+    "firebase_url": "https://flutterdemoapp-5b9c9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutterdemoapp-5b9c9",
+    "storage_bucket": "flutterdemoapp-5b9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658632820153:android:3bba135265d7a25ba36268",
+        "android_client_info": {
+          "package_name": "com.example.firebasedart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658632820153-lu880m3v2tqsc20m765dneudihbmr9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhp668BwAYNHbn8zHmWz2VqEzvL94Lgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658632820153-lu880m3v2tqsc20m765dneudihbmr9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658632820153-sv4c8q57pc2pp4skgarafmg5ov93ilkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasedart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658632820153:android:ceeef1c0f85100a9a36268",
+        "android_client_info": {
+          "package_name": "com.example.homeiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658632820153-lu880m3v2tqsc20m765dneudihbmr9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhp668BwAYNHbn8zHmWz2VqEzvL94Lgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658632820153-lu880m3v2tqsc20m765dneudihbmr9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658632820153-sv4c8q57pc2pp4skgarafmg5ov93ilkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasedart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658632820153:android:510707e533acd0a0a36268",
+        "android_client_info": {
+          "package_name": "com.example.tugasrancang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658632820153-lu880m3v2tqsc20m765dneudihbmr9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhp668BwAYNHbn8zHmWz2VqEzvL94Lgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658632820153-lu880m3v2tqsc20m765dneudihbmr9ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658632820153-sv4c8q57pc2pp4skgarafmg5ov93ilkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasedart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
